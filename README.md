@@ -1,4 +1,4 @@
-# AlgoritmoPopeye
+# Simulador Popeye
 
 Este algoritmo determina el mayor cardinal de los conjuntos estables de un grafo
 
