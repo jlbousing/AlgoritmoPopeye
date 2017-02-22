@@ -1,4 +1,4 @@
-# Simulador Popeye
+# Determinar el mayor cardinal de conjuntos estables de un grafo
 
 Este algoritmo determina el mayor cardinal de los conjuntos estables de un grafo
 
