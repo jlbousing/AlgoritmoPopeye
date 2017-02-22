@@ -53,7 +53,6 @@ CLASE Aplicacion
    
    MayorCardinalidad(): void
        entero mayor = 0;
-       
        entero i = 0;
        entero j = 0;
        
